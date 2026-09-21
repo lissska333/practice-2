@@ -1,0 +1,224 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:300,400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic);
+html, body {
+  font-family: 'Open Sans', sans-serif;
+  height: 100%;
+  margin: 0;
+  background-color: ?;
+}
+
+.box {
+    width: 80%;
+    position: absolute;
+    margin-top: -450px;
+  overflow: auto;
+}
+
+#main {
+ width: 100%;
+ padding: 0;
+}
+.content-asset p {
+ margin: 0 auto;
+}
+.breadcrumb {
+ display: none;
+}
+
+.margin-top-10 {
+ padding-top: 10px;
+}
+.margin-bot-10 {
+ padding-bottom: 10px;
+}
+
+#flat h1 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 24px;
+ font-weight: 400;
+ text-transform: uppercase;
+ color: black;
+ padding: 0;
+ margin: 0;
+}
+
+#flat h2 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 70px;
+ letter-spacing: 10px;
+ text-align: center;
+ color: white;
+ font-weight: 400;
+ text-transform: uppercase;
+ z-index: 10;
+ opacity: .9;
+}
+
+#flat h3 {
+ font-family: 'Oswald', sans-serif;
+ font-size: 14px;
+ line-height: 0;
+ font-weight: 400;
+ letter-spacing: 8px;
+ text-transform: uppercase;
+ color: black;
+}
+
+#flat p {
+ font-family: 'Source Sans Pro', sans-serif;
+ font-weight: 400;
+ font-size: 14px;
+ line-height: 24px;
+ color: black;
+}
+
+.first-character {
+ font-weight: 400;
+ float: left;
+ font-size: 84px;
+ line-height: 64px;
+ padding-top: 4px;
+ padding-right: 8px;
+ padding-left: 3px;
+ font-family: 'Source Sans Pro', sans-serif;
+}
+
+.hh{
+color: #1924B1;
+font-family: "Arial", sans-serif;
+{
+.hh2{
+color: #2F3584;
+font-family: "Arial", sans-serif;
+{
+.hh3{
+color: #081073;
+font-family: "Arial", sans-serif;
+{
+
+#flat .title {
+ background: white;
+ padding: 60px;
+ margin: 0 auto;
+ text-align: center;
+}
+
+#flat .title h1 {
+ font-size: 35px;
+ letter-spacing: 8px;
+}
+
+#flat .block {
+ background: white;
+ padding: 6px;
+ width: 820px;
+ margin: 0 auto;
+ text-align: justify;
+}
+
+#flat .block-gray {
+ background: #f2f2f2;
+ padding: 6px;
+}
+
+#flat .section-overlay-mask {
+ position: absolute;
+ top: 0;
+ left: 0;
+ width: 100%;
+ height: 100%;
+ background-color: black;
+ opacity: 0.70;
+}
+
+#flat .parallax-one {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://sun9-54.vkuserphoto.ru/s/v1/ig2/1p2BqP60Ix9a_CRHdKeZJckSgb-GhKQqK2wYqagPQPUDHEuYp1fq1yDA22J55ndluV5aDYTnHrzIsZ5As_Z5s0hx.jpg?quality=95&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,500x500&from=bu&u=3v0fmf_4hsfEDcbyJwSRNc7cDILadi1Asuexa3aE0NA&cs=500x0");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: top center;
+}
+
+#flat .parallax-two {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://sun9-12.vkuserphoto.ru/s/v1/ig2/6nz4riOt2G7tLr8Dep-Q6eDn4xIrZDYOCmK6sqvWcqswzRQqz6-0X7Bq8V4DdkfL5yDlyB5xqhpzCK2HaZ6-oJ4R.jpg?quality=95&as=32x57,48x86,72x128,108x193,160x285,240x428,360x642,480x856,540x963,640x1142,720x1284,1080x1927,1148x2048&from=bu&cs=1148x0");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+
+#flat .parallax-three {
+ padding-top: 200px;
+ padding-bottom: 200px;
+ overflow: hidden;
+ position: relative;
+ width: 100%;
+ background-image: url("https://sun9-53.vkuserphoto.ru/s/v1/ig2/MHIXh43siQnCik53Ke-UGYt9tD4-SShBH0wSB5LrrMydC2e8EIZw2-nxue4EjPtFZyhGbbbVXroOUowYP3_CYw8V.jpg?quality=95&as=32x13,48x19,72x29,108x43,160x64,240x96,360x144,480x192,540x216,640x255,720x287,1080x431,1280x511&from=bu&cs=1280x0");
+ background-attachment: fixed;
+ background-size: cover;
+ -moz-background-size: cover;
+ -webkit-background-size: cover;
+ background-repeat: no-repeat;
+ background-position: center center;
+}
+
+#flat .line-break1 {
+ background: linear-gradient(60deg, #00C90D	#26972D	#008209);
+ width: 100%;
+ margin: 0 auto;
+}
+
+#flat .line-break2 {
+ background: linear-gradient(60deg, #071A71	#4962D6	#6F81D6);
+ width: 100%;
+ margin: 0 auto;
+}
+
+#flat .line-break3 {
+ background: linear-gradient(60deg, #FF8700	#BF7C30	#A65800);
+ width: 100%;
+ margin: 0 auto;
+}
+
+@media screen and (max-width: 959px) and (min-width: 768px) {
+ #flat .block {
+  padding: 40px;
+  width: 620px;
+ }
+}
+@media screen and (max-width: 767px) {
+ #flat .block {
+  padding: 30px;
+  width: 420px;
+ }
+ #flat h2 {
+  font-size: 30px;
+ }
+ #flat .block {
+  padding: 30px;
+ }
+ #flat .parallax-one, #flat .parallax-two, #flat .parallax-three {
+  padding-top: 100px;
+  padding-bottom: 100px;
+ }
+}
+@media screen and (max-width: 479px) {
+ #flat .block {
+  padding: 30px 15px;
+  width: 290px;
+ }
+}
