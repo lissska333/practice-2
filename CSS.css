@@ -137,7 +137,7 @@ font-family: "Arial", sans-serif;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/lissska333/practice-2/blob/bbe6eaff979bac7ec299a3d9fa2bc949cab6d98e/IMG_5576.jpeg");
+ background-image: url("https://github.com/lissska333/practice-2/bbe6eaff979bac7ec299a3d9fa2bc949cab6d98e/.jpeg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -152,7 +152,7 @@ font-family: "Arial", sans-serif;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/lissska333/practice-2/blob/bbe6eaff979bac7ec299a3d9fa2bc949cab6d98e/photo-output.jpeg");
+ background-image: url("https://github.com/lissska333/practice-2/bbe6eaff979bac7ec299a3d9fa2bc949cab6d98e/photo-output.jpeg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -167,7 +167,7 @@ font-family: "Arial", sans-serif;
  overflow: hidden;
  position: relative;
  width: 100%;
- background-image: url("https://github.com/lissska333/practice-2/blob/bbe6eaff979bac7ec299a3d9fa2bc949cab6d98e/IMG_5583.jpeg");
+ background-image: url("https://github.com/lissska333/practice-2/bbe6eaff979bac7ec299a3d9fa2bc949cab6d98e/IMG_5583.jpeg");
  background-attachment: fixed;
  background-size: cover;
  -moz-background-size: cover;
@@ -208,9 +208,7 @@ font-family: "Arial", sans-serif;
  #flat h2 {
   font-size: 30px;
  }
- #flat .block {
-  padding: 30px;
- }
+ 
  #flat .parallax-one, #flat .parallax-two, #flat .parallax-three {
   padding-top: 100px;
   padding-bottom: 100px;
